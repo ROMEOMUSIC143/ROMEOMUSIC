@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Don't Change This, Leave as it is",
-        "value": "https://github.com/Prince301102/Tiana-Music",
+        "value": "https://github.com/ROMEOMUSIC143/Tiana-Music",
         "required": true
       },
       "UPSTREAM_BRANCH": {
